@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Torpedo-Log
 - 👀 I’m interested in C language family
-- 🌱 I’m currently learning c# and Java
+- 🌱 I’m currently learning C# and Java
 - 💞️ I’m looking to collaborate on Null
 - 📫 How to reach me ... Dont try it
 - 😄 Pronouns: Nig/ga
