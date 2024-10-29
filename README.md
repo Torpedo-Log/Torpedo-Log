@@ -2,7 +2,7 @@
 - 👀 I’m interested in C language family
 - 🌱 I’m currently learning C# and Java
 - 💞️ I’m looking to collaborate on Null
-- 📫 How to reach me ... Dont try it
+- 📫 Dont try to reach me
 - 😄 Pronouns: Nig/ga
 - ⚡ Fun fact: I hate a specific group of people
 
